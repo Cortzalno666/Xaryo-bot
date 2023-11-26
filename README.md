@@ -14,3 +14,6 @@ The default prefix for the bot is X. we do not support slash commands because th
 
 # 🔗Link
 Invite-> https://discord.com/api/oauth2/authorize?client_id=1144911572926480434&permissions=8&scope=bot
+
+> Copyright 2023 Xaryo. Powered by Gesoca office alright reversed.
+> GNU AFFERO GENERAL PUBLIC LICENSE
