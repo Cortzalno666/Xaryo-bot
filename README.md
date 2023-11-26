@@ -15,5 +15,8 @@ The default prefix for the bot is X. we do not support slash commands because th
 # 🔗Link
 Invite-> https://discord.com/api/oauth2/authorize?client_id=1144911572926480434&permissions=8&scope=bot
 
+# 🤝Deplomacy
+- We aceapt Deplomacy for partnerships, alliance ETC, the Gesoca office will review the server if it is good for Deplomacy or not. Gesoca services provides us the protection for Noolar License v9. its security protects us from any copyright strikes.
+
 > Copyright 2023 Xaryo. Powered by Gesoca office alright reversed.
 > GNU AFFERO GENERAL PUBLIC LICENSE
