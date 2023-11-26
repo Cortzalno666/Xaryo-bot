@@ -13,4 +13,4 @@
 The default prefix for the bot is X. we do not support slash commands because they have lot of bugs in our systematics. So to fix them we thought to make our own prefix named X. Remember that any command after X. come with big alphabet like: X.Help, X.Cmds ETC. in order to add the bot you must have atleast 15 human members in your discord server to use this bot properly if you didnt understand, read from the first of this Readme. Sometimes the bot may go offline as it is not an 24/7 bot like every bot. if you need any other helps please join our support server: https://discord.gg/ePwRxY5eT2
 
 # 🔗Link
-Invite-> https://discord.gg/ePwRxY5eT2
+Invite-> [https://discord.gg/ePwRxY5eT2](https://discord.com/api/oauth2/authorize?client_id=1144911572926480434&permissions=8&scope=bot)https://discord.com/api/oauth2/authorize?client_id=1144911572926480434&permissions=8&scope=bot
